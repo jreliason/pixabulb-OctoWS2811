@@ -1,0 +1,9 @@
+[submodule "nrf8001_arm_support"]
+	path = nrf8001_arm_support
+	url = https://github.com/tato123/nrf8001_arm_support
+[submodule "SPI"]
+	path = SPI
+	url = https://github.com/PaulStoffregen/SPI
+[submodule "TimerThree"]
+	path = TimerThree
+	url = https://github.com/PaulStoffregen/TimerThree
